@@ -35,7 +35,7 @@ file_path = base / "subdir" / "file.txt"
 # p_ = Path("data/subdir/test.txt")
 # print(p_.exists())  # False
 # print(p.is_file())  # True，判断路径对象是否是一个文件，并且存在（以绝对路径判断）
-not_file = Path("day19/data")
+not_file = Path("day19_file_io/data")
 # print(not_file.is_file())
 # print(p.is_dir())  # 判断路径对象是否是一个目录，并且存在（以绝对路径判断）
 # print(not_file.is_dir())

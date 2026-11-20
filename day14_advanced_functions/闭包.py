@@ -4,7 +4,7 @@
 在 Python 中，闭包是通过在另一个封装函数内部嵌套函数，然后返回内部函数来创建的
 """
 
-from day14.常用高阶函数 import double
+from day14_advanced_functions.常用高阶函数 import double
 
 """
 简单来说，闭包是这样一种现象：

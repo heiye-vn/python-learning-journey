@@ -1,4 +1,4 @@
-from day30.app.repository import TodoRepository
+from day30_todo_api.app.repository import TodoRepository
 
 todo_repository = TodoRepository()
 

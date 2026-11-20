@@ -1,8 +1,8 @@
 from fastapi import APIRouter, Depends, HTTPException, Response, status
 
-from day30.app.dependencies import get_todo_repository
-from day30.app.repository import TodoRepository
-from day30.app.schemas import TodoCreate, TodoRead, TodoUpdate
+from day30_todo_api.app.dependencies import get_todo_repository
+from day30_todo_api.app.repository import TodoRepository
+from day30_todo_api.app.schemas import TodoCreate, TodoRead, TodoUpdate
 
 router = APIRouter(prefix="/todos", tags=["todos"])
 

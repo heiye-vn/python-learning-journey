@@ -19,7 +19,7 @@ from typing import (
 
 from pydantic import BaseModel, Field
 
-from day14.常用高阶函数 import total
+from day14_advanced_functions.常用高阶函数 import total
 
 """
 Self：返回当前实例，常用于链式调用

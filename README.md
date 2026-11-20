@@ -10,37 +10,37 @@
 ├── README.md           # 项目自述文档
 ├── data/               # 练习用数据
 ├── note/               # 学习笔记
-├── day01/              # python 相关命令练习
-├── day02/              # 常用内置函数
-├── day03/              # 运算符
-├── day04/              # 字符串详解（特性、方法、格式化...）
-├── day05/              # 列表（List）
-├── day06/              # 元组（Tuple）
-├── day07/              # 集合（Set）
-├── day08/              # 字典（Dict）
-├── day09/              # 条件语句
-├── day10/              # 循环语句（Loop）
-├── day11/              # 函数（Function）
-├── day12/              # 模块（Module）
-├── day13/              # 列表推导式
-├── day14/              # 高阶函数、闭包、装饰器、生成器
-├── day15/              # 常见类型错误
-├── day16/              # 日期与时间处理
-├── day17/              # 异常处理、打包、解包、展开
-├── day18/              # 正则表达式
-├── day19/              # 文件操作处理
-├── day20/              # 包管理工具
-├── day21/              # 面向对象编程（OPP）
-├── day22/              # 上下文管理器、类型注解
-├── day23/              # Pydantic 的使用
-├── day24/              # logging 日志记录
-├── day25/              # 迭代器、生成器、装饰器详解
-├── day26/              # 异步编程详解
-├── day27/              # 网络编程、并发处理，pytest 测试框架应用
-├── day28/              # 项目工程，打包部署
-├── day29/              # FastAPI 框架学习
-├── day30/              # FastAPI 练习，todo_api
-└── day31/              # FastAPI 查询参数与路由练习
+├── day01_python_cli/               # python 相关命令练习
+├── day02_builtins/                 # 常用内置函数
+├── day03_operators/                # 运算符
+├── day04_strings/                  # 字符串详解（特性、方法、格式化...）
+├── day05_list/                     # 列表（List）
+├── day06_tuple/                    # 元组（Tuple）
+├── day07_set/                      # 集合（Set）
+├── day08_dict/                     # 字典（Dict）
+├── day09_conditionals/             # 条件语句
+├── day10_loops/                    # 循环语句（Loop）
+├── day11_functions/                # 函数（Function）
+├── day12_modules/                  # 模块（Module）
+├── day13_comprehensions/           # 列表推导式
+├── day14_advanced_functions/       # 高阶函数、闭包、装饰器、生成器
+├── day15_type_errors/              # 常见类型错误
+├── day16_datetime/                 # 日期与时间处理
+├── day17_exceptions_unpacking/     # 异常处理、打包、解包、展开
+├── day18_regex/                    # 正则表达式
+├── day19_file_io/                  # 文件操作处理
+├── day20_package_management/       # 包管理工具
+├── day21_oop/                      # 面向对象编程（OPP）
+├── day22_context_typing/           # 上下文管理器、类型注解
+├── day23_pydantic/                 # Pydantic 的使用
+├── day24_logging/                  # logging 日志记录
+├── day25_iterators_generators_decorators/ # 迭代器、生成器、装饰器详解
+├── day26_async/                    # 异步编程详解
+├── day27_network_concurrency/      # 网络编程、并发处理，pytest 测试框架应用
+├── day28_project_packaging/        # 项目工程，打包部署
+├── day29_fastapi/                  # FastAPI 框架学习
+├── day30_todo_api/                 # FastAPI 练习，todo_api
+└── day31_fastapi_learning/         # FastAPI 查询参数与路由练习
 ```
 
 ---

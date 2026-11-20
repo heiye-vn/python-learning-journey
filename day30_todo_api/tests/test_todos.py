@@ -1,6 +1,6 @@
 from fastapi.testclient import TestClient
 
-from day30.app.main import app
+from day30_todo_api.app.main import app
 
 client = TestClient(app)
 
