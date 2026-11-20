@@ -1,7 +1,7 @@
 import uvicorn
 from fastapi import FastAPI
 
-from day30_todo_api.app.routers import todos
+from day30.app.routers import todos
 
 app = FastAPI(
     title="Todo API",

@@ -1,4 +1,4 @@
-from day30_todo_api.app.schemas import TodoCreate, TodoRead, TodoUpdate
+from day30.app.schemas import TodoCreate, TodoRead, TodoUpdate
 
 
 class TodoRepository:
